@@ -1,4 +1,4 @@
-Things whic I learnt from this project :
+Things which I learnt from this project :
 1. How to store data in LocalStorge :
    use : locastorage.setItem(); --> this take 2 parameter key and value . 
 2. How to get data from LocalStorage :
